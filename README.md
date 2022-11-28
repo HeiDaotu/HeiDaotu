@@ -1,7 +1,7 @@
 - :grimacing:: Hi, 我是 @HeiDaotu
-- :satisfied: 你是谁
-- :wink: 噢！不
-- :smirk: 我好像看到你了
+- :satisfied:: 你是谁
+- :wink:: 噢！不
+- :smirk:: 我好像看到你了
 - :joy:: 为什么要来看我的GitHub呢
 
 <!---
