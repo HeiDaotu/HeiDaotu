@@ -1,8 +1,8 @@
-- :grimacing:: Hi, I’m @HeiDaotu
-- :satisfied: I’m interested in ...
-- :wink: I’m currently learning ...
-- :smirk: I’m looking to collaborate on ...
-- :joy:: How to reach me ...
+- :grimacing:: Hi, 我是 @HeiDaotu
+- :satisfied: 你是谁
+- :wink: 噢！不
+- :smirk: 我好像看到你了
+- :joy:: 为什么要来看我的GitHub呢
 
 <!---
 HeiDaotu/HeiDaotu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
